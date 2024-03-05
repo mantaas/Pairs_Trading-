@@ -1,2 +1,2 @@
 # Pairs_Trading
-Done under FAC IITK
+Done under Finance and Analytics Club IITK
